@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: ecommerce
-          image: meghana0309/ecommercedemoapp
+          image: meghana0309/ecommercedemoapp-v2
           ports:
             - containerPort: 5000
